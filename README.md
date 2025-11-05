@@ -3,7 +3,7 @@
 
 If you use the toolbox, please consider citing the following publications:
 
-1) Xinyu Ye, Xiaodong Ma, Ziyi Pan, Zhe Zhang, Hua Guo, Kâmil Uğurbil, Xiaoping Wu. Denoising complex-valued diffusion MR images using a two-step non-local principal component analysis approach. bioRxiv: DOI: 10.1101/2024.10.30.621081.
+Ye X, Ma X, Pan Z, et al. Denoising complex-valued diffusion MR images using a two-step, nonlocal principal component analysis approach. Magn Reson Med. 2025; 93: 2473-2487. doi: 10.1002/mrm.30502
 
 
 ### Copyright & License Notice
